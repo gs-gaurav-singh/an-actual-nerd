@@ -7,10 +7,14 @@ Highly skilled QA engineer with 1.5 years of experience in software testing and 
 - ⚽ Like watching and playing football.
 
 
-### Connect with me:
-[![website](./img/globe-light.svg)](https://an-actual-nerd.github.io/Gaurav-Singh-Portfolio/)- Gaurav Singh- Portfolio
-[![website](./img/globe-dark.svg)](https://an-actual-nerd.github.io/Gaurav-Singh-Portfolio/)- Gaurav Singh- Portfolio
-&nbsp;&nbsp;
+### Connect with me using my portfolio website:
+<a href="https://an-actual-nerd.github.io/Gaurav-Singh-Portfolio#gh-light-mode-only">
+  <img src="./img/globe-light.svg#gh-light-mode-only" alt="My Portfolio website"/>
+</a>
+
+<a href="https://an-actual-nerd.github.io/Gaurav-Singh-Portfolio#gh-dark-mode-only">
+  <img src="./img/globe-dark.svg#gh-dark-mode-only" alt="My Portfolio website" />
+</a>
 
 
 ### Languages and Tools:
@@ -18,7 +22,7 @@ Highly skilled QA engineer with 1.5 years of experience in software testing and 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
