@@ -1,12 +1,14 @@
 # Hi there, I'm Gaurav 👋 
 Highly skilled QA engineer with 1.5 years of experience in software testing and quality assurance. Proven ability of effectual management of projects and products. Practical and extensive experience in testing methodologies. Equipped with a deep understanding of coding principles, I have been effectively contributing to test automation efforts and have enriched experience in streamlining processes for customized and quality software development.
 
+
 ## I'm a Tester and Developer
 - 🥅 2023 Goals: Learn more about automation testing and web development
 - ⚽ Like watching and playing football.
 
+
 ### Connect with me:
-[![Portfolio Website](https://an-actual-nerd.github.io/Gaurav-Singh-Portfolio/)](Gaurav Singh- Portfolio)
+[![website](./img/globe-light.svg)](https://an-actual-nerd.github.io/Gaurav-Singh-Portfolio/)- Gaurav Singh- Portfolio
 
 
 ### Languages and Tools:
