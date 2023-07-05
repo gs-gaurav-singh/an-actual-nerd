@@ -9,6 +9,8 @@ Highly skilled QA engineer with 1.5 years of experience in software testing and 
 
 ### Connect with me:
 [![website](./img/globe-light.svg)](https://an-actual-nerd.github.io/Gaurav-Singh-Portfolio/)- Gaurav Singh- Portfolio
+[![website](./img/globe-dark.svg)](https://an-actual-nerd.github.io/Gaurav-Singh-Portfolio/)- Gaurav Singh- Portfolio
+&nbsp;&nbsp;
 
 
 ### Languages and Tools:
